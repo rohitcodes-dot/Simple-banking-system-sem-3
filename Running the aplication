@@ -1,0 +1,83 @@
+Welcome to the Banking Application
+1. Create New Account
+2. Deposit Money
+3. Withdraw Money
+4. Transfer Money
+5. Display Account Details
+6. Exit
+Enter your choice: 1
+Enter Account Number: 123
+Enter Account Holder Name: Ramesh
+New account created for Ramesh with Account Number: 123
+
+Welcome to the Banking Application
+1. Create New Account
+2. Deposit Money
+3. Withdraw Money
+4. Transfer Money
+5. Display Account Details
+6. Exit
+Enter your choice: 1
+Enter Account Number: 456
+Enter Account Holder Name: Vijay
+New account created for Vijay with Account Number: 456
+
+Welcome to the Banking Application
+1. Create New Account
+2. Deposit Money
+3. Withdraw Money
+4. Transfer Money
+5. Display Account Details
+6. Exit
+Enter your choice: 2
+Enter Account Number: 123
+Enter Amount to Deposit: 10000
+Amount deposited successfully. Current Balance: 10000.0
+
+Welcome to the Banking Application
+1. Create New Account
+2. Deposit Money
+3. Withdraw Money
+4. Transfer Money
+5. Display Account Details
+6. Exit
+Enter your choice: 3
+Enter Account Number: 123
+Enter Amount to Withdraw: 5000
+Amount withdrawn successfully. Remaining Balance: 5000.0
+
+Welcome to the Banking Application
+1. Create New Account
+2. Deposit Money
+3. Withdraw Money
+4. Transfer Money
+5. Display Account Details
+6. Exit
+Enter your choice: 4
+Enter From Account Number: 123
+Enter To Account Number: 456
+Enter Amount to Transfer: 2000
+Amount withdrawn successfully. Remaining Balance: 3000.0
+Amount deposited successfully. Current Balance: 2000.0
+Transfer successful. New Balance: 3000.0
+
+Welcome to the Banking Application
+1. Create New Account
+2. Deposit Money
+3. Withdraw Money
+4. Transfer Money
+5. Display Account Details
+6. Exit
+Enter your choice: 5
+Account Number: 123, Account Holder: Ramesh, Balance: 3000.0
+Account Number: 456, Account Holder: Vijay, Balance: 2000.0
+
+Welcome to the Banking Application
+1. Create New Account
+2. Deposit Money
+3. Withdraw Money
+4. Transfer Money
+5. Display Account Details
+6. Exit
+Enter your choice: 6
+Thank you for using the Banking Application
